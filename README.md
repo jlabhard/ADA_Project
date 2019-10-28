@@ -26,5 +26,6 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 - Data visualization step (plots, maps, charts, interactive views..)
 - Prepare the notebook and write a draft for the data story 
 
-# Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+# Questions for TAs
+- Is our project feasible, should we focus on one specific aspect or having a few different ones beneficial?
+- How can we efficiently get relevant data from e-shop websites ? 
