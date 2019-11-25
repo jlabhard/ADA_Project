@@ -21,7 +21,7 @@ is a high quality dataset containing important statistics like imports,exports,f
 - Define the needed plots and the visualization and try to find a way to get to them 
 - Convince Manuel from Eaternity to provide support for the project and get cited in return.  
 - Augment the relevant datasets with the carbon emission data of the food 
-- Plan a long meetings for designing the data story
+- Plan a long meeting for designing the data story
 - Start working on the final document that will be published 
 - Start a draft of the report 
 
