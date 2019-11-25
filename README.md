@@ -1,11 +1,11 @@
 # Swiss food consumption and provenance
 
 ## Abstract
-The food we eat everyday comes from many places, sometimes places we do not except. In this project we aim to tell a story about what kind of food we are used to eat as Swiss citizens, where it comes from and what our impact on the agricultural market is. We will start by looking at what the swiss population tends to eat and try to retrace their origin. Then we aim to gather more information about this food like the price, the carbon footprint etc.
+The food we eat everyday comes from many places, sometimes places we do not except. In this project we aim to tell a story about what kind of food we are used to eat as swiss citizens, where it comes from and what our impact on the agricultural market is. We will start by looking at what the swiss population tends to eat and try to retrace their origin. Then we aim to gather more information about this food like the price, the carbon footprint etc.
 
 ## Research questions
-- Analysis of the provenance of the food and agriculture products consumed in Switzerland? 
-- Impact of the globalization on the local production? 
+- Analysis of the provenance of the food and agriculture products consumed in Switzerland
+- Impact of the globalization on the local production from an economical perspective 
 - How does the choice of the import sources impact the food carbon footprint of Switzerland ?  
 
 ## Dataset
