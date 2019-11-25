@@ -7,7 +7,7 @@ The food we eat everyday comes from many places, sometimes places we do not exce
 - What is the provenance and proportion of the imported products composing an average meal in Switzerland? 
 - What Switzerland imports the most and how much does it cost to the swiss people ?  
 - How much goes to local producers from the cost of an average meal in Switzerland ? 
-- What is the food carbon print of an average swiss citizen ?
+- What is the food carbon footprint of an average swiss citizen ?
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
