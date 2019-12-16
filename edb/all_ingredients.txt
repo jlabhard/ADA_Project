@@ -1,0 +1,2091 @@
+
+   Aal
+
+ eel
+
+   Ackerbohnen
+
+ field beans
+
+   Ahornsirup
+
+ maple syrup
+
+   Algen
+
+ seaweed
+
+   Amarant
+
+ amaranth
+
+   Ananas
+
+ pineapple
+
+   Ananassaft
+
+ pineapple juice
+
+   Anis
+
+ anise
+
+   Apfel
+
+ Apple
+
+   Apfelessig
+
+ Apple Cider Vinegar
+
+   Apfelpektin
+
+ apple pectin
+
+   Apfelsaft
+
+ Apple juice
+
+   Aprikosen
+
+ apricots
+
+   Artischocken
+
+ artichokes
+
+   Artischockenherzen
+
+ artichoke hearts
+
+   Aubergine
+
+ aubergine
+
+   Austern
+
+ oysters
+
+   Austernpilz
+
+ oyster mushroom
+
+   Avocado
+
+ avocado
+
+   B
+
+ B
+
+   Backpulver
+
+ baking powder
+
+   Balsamico Essig
+
+ balsamic vinegar
+
+   Bananen
+
+ bananas
+
+   Bärlauch
+
+ wild garlic
+
+   Basilikum
+
+ basil
+
+   Basmatireis
+
+ Basmati rice
+
+   Batavia
+
+ Batavia
+
+   Walnüsse
+
+ walnuts
+
+   Walnüssöl
+
+ Walnüssöl
+
+   Bier
+
+ beer
+
+   Birnen
+
+ pears
+
+   Birnensaft
+
+ pear juice
+
+   Blätterteig (pflanzliche Fette)
+
+ Puff pastry (vegetable fats)
+
+   Blaubeeren
+
+ blueberries
+
+   Weißer Spargel
+
+ White asparagus
+
+   Blumenkohl
+
+ cauliflower
+
+   Bohnenkraut
+
+ savory
+
+   Branntweinessig
+
+ vinegar
+
+   Brechbohnen
+
+ snap beans
+
+   Brennnesseln
+
+ nettles
+
+   Broccoli
+
+ broccoli
+
+   Brombeeren
+
+ blackberries
+
+   Brot
+
+ loaf
+
+   Brötchen
+
+ bun
+
+   Brunnenkresse
+
+ watercress
+
+   Buchweizen,
+
+ Buckwheat,
+
+   Buchweizenmehl
+
+ buckwheat flour
+
+   Bulghur
+
+ Bulghur
+
+   Bündnerfleisch
+
+ air-dried meat
+
+   Buschbohnen
+
+ bush beans
+
+   Butter
+
+ butter
+
+   Buttermilch
+
+ buttermilk
+
+   Butternut
+
+ Butternut
+
+   C
+
+ C
+
+   Cashewnüsse
+
+ Cashews
+
+   Champagner
+
+ champagne
+
+   Champignons
+
+ mushrooms
+
+   Cheddar
+
+ Cheddar
+
+   Cherrytomaten
+
+ Cherry tomatoes
+
+   Chia
+
+ Chia
+
+   Chicorée
+
+ Chicory
+
+   Chili
+
+ chili
+
+   Chinakohl
+
+ Chinese cabbage
+
+   Cicorino
+
+ cicorino
+
+   Claressefilet
+
+ Claressefilet
+
+   Cognac
+
+ cognac
+
+   Couscous
+
+ couscous
+
+   Crème fraiche
+
+ Creme fraiche Cheese
+
+   Garnelen
+
+ shrimp
+
+   Curry
+
+ curry
+
+   Currypaste
+
+ curry paste
+
+   D
+
+ D
+
+   Datteln
+
+ dates
+
+   Dextrose
+
+ dextrose
+
+   Dillkraut
+
+ dill
+
+   Dinkelmehl
+
+ spelled flour
+
+   Dinkelvollkornschrot
+
+ Spelled wholemeal
+
+   Distelöl
+
+ safflower oil
+
+   Dorsch
+
+ cod
+
+   Ebly
+
+ Ebly
+
+   Edamame
+
+ Edamame
+
+   Eglifilet
+
+ perch fillet
+
+   Eier (Bodenhaltung)
+
+ Eggs (ground husbandry)
+
+   Eier (Freilandhaltung)
+
+ Eggs (free range)
+
+   Eichblattsalat
+
+ Eichblattsalat
+
+   Eigelb
+
+ egg yolk
+
+   Eisbergsalat
+
+ iceberg lettuce
+
+   Eiweiss
+
+ Protein
+
+   Endivie
+
+ endive
+
+   Ente
+
+ duck
+
+   Erbsen
+
+ peas
+
+   Erdbeeren
+
+ strawberries
+
+   Erdnüsse
+
+ peanuts
+
+   Erdnussöl
+
+ peanut oil
+
+   Essig
+
+ vinegar
+
+   Essiggurken
+
+ pickles
+
+   F
+
+ F
+
+   Feigen
+
+ figs
+
+   Felchen
+
+ whitefish
+
+   Fenchel
+
+ fennel
+
+   Fenchelsamen
+
+ fennel seeds
+
+   Tierfett
+
+ animal fat
+
+   Fisch
+
+ fish
+
+   Fleisch
+
+ meat
+
+   Flunder (101)
+
+ flounder
+
+   Fohlen
+
+ foal
+
+   Frucht
+
+ fruit
+
+   Fruchtsaft
+
+ fruit juice
+
+   Frühkartoffeln
+
+ early potatoes
+
+   Frühlingszwiebeln
+
+ spring onions
+
+   G
+
+ G
+
+   Galgant
+
+ galangal
+
+   Garnelenpaste
+
+ shrimp paste
+
+   Gelatine
+
+ gelatin
+
+   Gelbe Linsen
+
+ Yellow lentils
+
+   Gemüse
+
+ vegetables
+
+   Gemüsebouillon
+
+ vegetable broth
+
+   Gemüsebrühe
+
+ vegetable stock
+
+   Gerste
+
+ barley
+
+   Gerstenmalzextrakt
+
+ barley malt extract
+
+   Gewürze
+
+ spices
+
+   Glasnudeln
+
+ glass noodles
+
+   Gluten (Weizen)
+
+ Gluten (wheat)
+
+   Gnocchi (Kartoffel)
+
+ Gnocchi (potato)
+
+   Goldbrasse
+
+ bream
+
+   Goldhirse
+
+ gold millet
+
+   Goldmakrele
+
+ Bluefish
+
+   Grapefruit
+
+ Grapefruit
+
+   Grapefruitsaft
+
+ grapefruit juice
+
+   Grüne Bohnen
+
+ Green beans
+
+   Grünkern
+
+ Grünkern
+
+   Grünkernschrot
+
+ Green kernel meal
+
+   Grünkohl
+
+ Kale
+
+   Grüner Spargel
+
+ Green asparagus
+
+   Grüntee
+
+ green tea
+
+   Gruyere
+
+ Gruyere
+
+   Gurke
+
+ cucumber
+
+   H
+
+ H
+
+   Hafer
+
+ oats
+
+   Haferdrink
+
+ Haferdrink
+
+   Haferflocken
+
+ oatmeal
+
+   Hafersahne
+
+ oats cream
+
+   Hartweizengrieß
+
+ Durum wheat semolina
+
+   Haselnüsse
+
+ hazelnuts
+
+   Haselnussöl
+
+ hazelnut oil
+
+   Hefe (frisch)
+
+ Yeast (fresh)
+
+   Heilbutt
+
+ halibut
+
+   Hering
+
+ herring
+
+   Himbeeren
+
+ raspberries
+
+   Himbeeressig
+
+ raspberry vinegar
+
+   Hirschfleisch
+
+ deer meat
+
+   Hirse
+
+ millet
+
+   Hokkaido
+
+ Hokkaido
+
+   Honig
+
+ honey
+
+   Hühnerbrühe
+
+ chicken broth
+
+   Hummer
+
+ lobster
+
+   I
+
+ I
+
+   Ingwer
+
+ ginger
+
+   J
+
+ J
+
+   Jalapeno
+
+ Jalapeno
+
+   Joghurt (natur)
+
+ Natural yoghurt)
+
+   K
+
+ K
+
+   Kabeljau
+
+ cod
+
+   Kaffeebohnen
+
+ coffee beans
+
+   Kaffeesahne
+
+ coffee creamer
+
+   Kakaopulver
+
+ cocoa powder
+
+   Kakaobutter
+
+ cocoa butter
+
+   Kakaomasse
+
+ cocoa paste
+
+   Kalb
+
+ calf
+
+   Kalbsbratwurst
+
+ veal sausage
+
+   Kängurufleisch
+
+ kangaroo meat
+
+   Kaninchenfleisch
+
+ rabbit meat
+
+   Kapern
+
+ capers
+
+   Kardamom
+
+ cardamom
+
+   Karotten
+
+ carrots
+
+   Kartoffeln
+
+ potatoes
+
+   Kefen
+
+ kefen
+
+   Kerbel
+
+ chervil
+
+   Ketchup
+
+ Ketchup
+
+   Kichererbsen
+
+ Chickpeas
+
+   Kichererbsenmehl
+
+ chickpea flour
+
+   Kidneybohnen
+
+ Kidney beans
+
+   Kirsche
+
+ cherry
+
+   Kiwi
+
+ kiwi
+
+   Knoblauch
+
+ garlic
+
+   Knollensellerie
+
+ celery root
+
+   Kohlrabi
+
+ kohlrabi
+
+   Kokos
+
+ coconut
+
+   Kokosnussmilch
+
+ coconut milk
+
+   Kokosnussöl
+
+ coconut oil
+
+   Kokosraspel
+
+ desiccated coconut
+
+   Kopfsalat
+
+ lettuce
+
+   Koriander
+
+ coriander
+
+   Kräuter
+
+ Herbs
+
+   Kräutertee
+
+ herbal tea
+
+   Kreuzkümmel
+
+ cumin
+
+   Kümmel
+
+ Caraway seed
+
+   Kürbis
+
+ pumpkin
+
+   Kürbiskerne
+
+ pumpkin seeds
+
+   Kurkuma
+
+ turmeric
+
+   L
+
+ L
+
+   Lachs
+
+ salmon
+
+   lachsforelle
+
+ salmon trout
+
+   Lamm
+
+ lamb
+
+   Languste
+
+ crayfish
+
+   Lattich
+
+ lettuce
+
+   Lauch
+
+ leek
+
+   Laugenbretzel
+
+ Soft pretzel
+
+   Leinsamen
+
+ linseed
+
+   Liebstöckel
+
+ lovage
+
+   Limette (201)
+
+ lime
+
+   Limettensaft
+
+ lime juice
+
+   Linsen
+
+ lenses
+
+   Linsenmehl
+
+ lentil flour
+
+   Lollo
+
+ Lollo
+
+   Lorbeer
+
+ laurel
+
+   M
+
+ M
+
+   Mais
+
+ Corn
+
+   Maisgrieß
+
+ corn grits
+
+   Maismehl
+
+ cornmeal
+
+   Majoran
+
+ marjoram
+
+   Makrele
+
+ mackerel
+
+   Mandarinen
+
+ tangerines
+
+   Mandarinensaft
+
+ tangerine juice
+
+   Mandeln
+
+ almonds
+
+   Mango
+
+ mango
+
+   Mangold
+
+ chard
+
+   Mangomark
+
+ mango pulp
+
+   Maniok
+
+ manioc
+
+   Maracuja
+
+ passion fruit
+
+   Margarine
+
+ margarine
+
+   Marmelade
+
+ jam
+
+   Maronen
+
+ chestnuts
+
+   Mascarpone
+
+ mascarpone
+
+   Mayonnaise
+
+ mayonnaise
+
+   Meerrettich
+
+ horseradish
+
+   Melasse
+
+ molasses
+
+   Melone
+
+ melon
+
+   Milchpulver
+
+ milk powder
+
+   Mineralwasser (mit Kohlensäure)
+
+ Sparkling water)
+
+   Mineralwasser (ohne Kohlensäure)
+
+ Mineral water (non-carbonated)
+
+   Minze
+
+ mint
+
+   Molke
+
+ whey
+
+   Molkepulver
+
+ whey powder
+
+   Mu-Err-Pilze
+
+ Jelly ear fungus
+
+   Mehrkornmehl
+
+ Multigrain flour
+
+   Mungobohne
+
+ mung bean
+
+   Muscheln
+
+ Shellfish
+
+   Muskat
+
+ nutmeg
+
+   N
+
+ N
+
+   Nektarine
+
+ nectarine
+
+   Nelken
+
+ cloves
+
+   Nudeln
+
+ noodles
+
+   Nudeln (mit Ei)
+
+ Pasta (with egg)
+
+   Nüsse
+
+ nuts
+
+   Feldsalat
+
+ Lamb’s lettuce
+
+   O
+
+ O
+
+   Oliven
+
+ olives
+
+   Olivenöl
+
+ olive oil
+
+   Orangen
+
+ oranges
+
+   Orangensaft
+
+ orange juice
+
+   Oregano
+
+ oregano
+
+   P
+
+ P
+
+   Pak choi
+
+ Pak choi
+
+   Palmöl
+
+ Palm oil
+
+   Paneer
+
+ Paneer
+
+   Pangasius
+
+ Pangasius
+
+   Paniermehl (Brot)
+
+ Breadcrumbs (bread)
+
+   Paprika
+
+ paprika
+
+   Pariser Karotten
+
+ Parisian carrots
+
+   Pastinaken
+
+ parsnips
+
+   Peperoncini
+
+ Peperoncini
+
+   Peperoni
+
+ pepperoni
+
+   Petersilie
+
+ parsley
+
+   Petersilienwurzel
+
+ parsley root
+
+   Pfeffer
+
+ pepper
+
+   Pferd
+
+ horse
+
+   Pfifferlinge
+
+ chanterelles
+
+   Pfirsich
+
+ peach
+
+   Pfirsichsaft
+
+ peach juice
+
+   Pflanzenfett
+
+ vegetable fat
+
+   pflanzliches Öl
+
+ vegetable oil
+
+   Pflaumen
+
+ plums
+
+   Pinienkerne
+
+ pine nuts
+
+   Pistazien
+
+ pistachios
+
+   Pommes
+
+ fries
+
+   Portulak
+
+ purslane
+
+   Portwein
+
+ port wine
+
+   Hähnchen
+
+ chicken
+
+   Prinzessbohnen
+
+ beans
+
+   Q
+
+ Q
+
+   Quark
+
+ Quark
+
+   Quinoa
+
+ quinoa
+
+   Quitte
+
+ quince
+
+   Quorn
+
+ Quorn
+
+   R
+
+ R
+
+   Raclette
+
+ Raclette
+
+   Radieschen
+
+ radish
+
+   Sahnepulver
+
+ cream powder
+
+   Rote Beete
+
+ Beetroot
+
+   Rote Beete Saft
+
+ Beetroot juice
+
+   Rapsöl
+
+ rapeseed oil
+
+   Räucherschinken
+
+ smoked ham
+
+   Reis
+
+ rice
+
+   Reisdrink
+
+ Reisdrink
+
+   Reisessig
+
+ rice vinegar
+
+   Reismehl
+
+ rice flour
+
+   Rettich
+
+ radish
+
+   Rhabarber
+
+ rhubarb
+
+   Ricotta
+
+ ricotta
+
+   Rind
+
+ beef
+
+   Rinderbrühe
+
+ beef broth
+
+   Risottoreis
+
+ risotto rice
+
+   Rispentomaten
+
+ Rispentomaten
+
+   Roggenmehl
+
+ rye flour
+
+   Roggenschrot
+
+ rye flour
+
+   Rohschinken (301)
+
+ prosciutto
+
+   Rollgerste
+
+ pearl barley
+
+   Romanesco
+
+ Romanesco
+
+   Rosenkohl
+
+ Brussels sprouts
+
+   Rosinen
+
+ raisins
+
+   Rosmarin
+
+ rosemary
+
+   Rote Linsen
+
+ Red lenses
+
+   Rotkohl
+
+ Red cabbage
+
+   Ruchbrot
+
+ Ruchbrot
+
+   Ruchmehl
+
+ Ruchmehl
+
+   Rucola
+
+ arugula
+
+   S
+
+ S
+
+   Safran
+
+ saffron
+
+   Sahne (Doppelrahmstufe, 45% Fett)
+
+ Cream (double cream, 45% fat)
+
+   Sahne (Vollfettstufe, 35% Fett)
+
+ Cream (full fat, 35% fat)
+
+   Sahne (Halbfettstufe, 25% Fett)
+
+ Cream (half-fat, 25% fat)
+
+   Saibling
+
+ char
+
+   Salami
+
+ salami
+
+   Salbei
+
+ sage
+
+   Salz
+
+ salt
+
+   Sambal Oelek
+
+ Sambal Oelek
+
+   Sardellen
+
+ anchovies
+
+   Sauerkraut
+
+ sauerkraut
+
+   Sauermilch
+
+ sour milk
+
+   Schmand
+
+ sour cream
+
+   Schalotte
+
+ shallot
+
+   Schinken
+
+ ham
+
+   Speck
+
+ bacon
+
+   Sonnenweizen
+
+ sun wheat
+
+   Schnapper
+
+ snapper
+
+   Schnittlauch
+
+ chives
+
+   Schokolade (dunkel)
+
+ Chocolate (dark)
+
+   Schokolade (Milch)
+
+ Chocolate milk)
+
+   Schokolade (weiß)
+
+ Chocolate (white)
+
+   Scholle
+
+ plaice
+
+   Schwarze Bohnen
+
+ Black beans
+
+   Schwarzkümmel
+
+ Nigella
+
+   Schwarztee
+
+ black tea
+
+   Schwarzwurzel
+
+ salsify
+
+   Schwein
+
+ pig
+
+   Schweineschmalz
+
+ lard
+
+   Seehecht
+
+ hake
+
+   Seelachs
+
+ coalfish
+
+   Seidentofu
+
+ silken tofu
+
+   Seitan
+
+ Seitan
+
+   Senf
+
+ mustard
+
+   Senfkörner
+
+ mustard seeds
+
+   Sesam
+
+ sesame
+
+   Sesamöl
+
+ sesame oil
+
+   Sherryessig
+
+ Sherry vinegar
+
+   Laugengebäck
+
+ Lye roll
+
+   Silserbrot
+
+ Silserbrot
+
+   Soisson Bohnen
+
+ Soisson beans
+
+   Soja
+
+ soy
+
+   Sojamehl,
+
+ Soy flour,
+
+   Sojamilch
+
+ soy milk
+
+   Sojaöl
+
+ soybean oil
+
+   Sojasauce
+
+ soy sauce
+
+   Sonnenblumenkerne
+
+ Sunflower seeds
+
+   Sonnenblumenöl
+
+ Sunflower oil
+
+   Spaghetti
+
+ spaghetti
+
+   Speck
+
+ bacon
+
+   Spinat
+
+ spinach
+
+   Spirituosen
+
+ spirits
+
+   Spitzkohl
+
+ cabbage
+
+   Sprossen
+
+ sprouts
+
+   Stangensellerie
+
+ celery
+
+   Stärke (Mais)
+
+ Starch (corn)
+
+   Stärke (Weizen)
+
+ Starch (wheat)
+
+   Stärke (Kartoffel)
+
+ Starch (potato)
+
+   Steckrüben
+
+ turnips
+
+   Steinpilze
+
+ ceps
+
+   Sternanis
+
+ star anise
+
+   Sternfrucht
+
+ starfruit
+
+   Strauss
+
+ Bouquet
+
+   Sultaninen
+
+ sultanas
+
+   Süßholz
+
+ licorice
+
+   Süßkartoffel
+
+ sweet potato
+
+   T
+
+ T
+
+   Tabasco
+
+ Tabasco
+
+   Tamarinde
+
+ tamarind
+
+   Tempeh
+
+ tempeh
+
+   Thunfisch
+
+ tuna
+
+   Thymian
+
+ thyme
+
+   Tilapia
+
+ Tilapia
+
+   Tilsiter
+
+ Tilsit
+
+   Tofu
+
+ tofu
+
+   Tomaten
+
+ tomatoes
+
+   Tomatenkonzentrat
+
+ tomato paste
+
+   Tomatensaft
+
+ tomato juice
+
+   Tomatensugo
+
+ tomato sugo
+
+   Topinambur
+
+ Jerusalem artichokes
+
+   Trauben
+
+ Grapes
+
+   Traubenkernöl
+
+ Grapeseed oil
+
+   Traubensaft
+
+ grape juice
+
+   Radicchio
+
+ radicchio
+
+   Trüffel
+
+ truffle
+
+   Truthuhn
+
+ Truthuhn
+
+   U V
+
+ U V
+
+   Vanilleschoten
+
+ vanilla
+
+   Vermouth
+
+ Vermouth
+
+   Wermut
+
+ wormwood
+
+   Vollei
+
+ whole egg
+
+   Vollkorngrieß (401)
+
+ Whole wheat flour
+
+   Vollkornmehl
+
+ Whole meal flour
+
+   Vollkornschrot
+
+ Wholemeal
+
+   W
+
+ W
+
+   Wacholderbeeren
+
+ juniper berries
+
+   Wachsbohnen
+
+ wax beans
+
+   Waldpilze
+
+ Wild mushrooms
+
+   Wasser
+
+ water
+
+   Wassermelone
+
+ watermelon
+
+   Wein
+
+ Wine
+
+   Weiße Bohnen
+
+ White beans
+
+   Weißer Tee
+
+ White tea
+
+   Weißkohl
+
+ white cabbage
+
+   Weißmehl
+
+ White flour
+
+   Weißweinessig
+
+ White wine vinegar
+
+   Weizen
+
+ wheat
+
+   Weizenmehl (Type 812)
+
+ Wheat flour (Type 812)
+
+   Wildschwein
+
+ wild boar
+
+   Wirsing
+
+ savoy
+
+   Wolfsbarsch
+
+ sea bass
+
+   X
+
+ X
+
+   Z
+
+ Z
+
+   Zanderfilet
+
+ pike perch
+
+   Ziegenfleisch
+
+ goat meat
+
+   Ziegenkäse
+
+ goat cheese
+
+   Ziegenmilch
+
+ goat milk
+
+   Zimt
+
+ cinnamon
+
+   Zitronen
+
+ Lemons
+
+   Zitronengras
+
+ lemongrass
+
+   Zitronenmelisse
+
+ lemon balm
+
+   Zitronensaft
+
+ lemon juice
+
+   Zucchini
+
+ zucchini
+
+   Zucker (Zuckerrohr)
+
+ Sugar (sugar cane)
+
+   Zucker (Zuckerrüben)
+
+ Sugar (sugar beet)
+
+   Zuckerhut
+
+ Sugarloaf
+
+   Zwetschgen
+
+ plums
+
+   Zwiebeln
+
+ onions
+
+   Käse (weich, 20 -25%)
+
+ Cheese (soft, 20 -25%)
+
+   Käse (halbhart, 25 - 30%)
+
+ Cheese (semi-hard, 25 - 30%)
+
+   Käse (hart, mehr als 30% )
+
+ Cheese (hard, more than 30%)
+
+   Käse (frisch, 0 - 15%)
+
+ Cheese (fresh, 0 - 15%)
+
+   Emmentaler
+
+ Emmentaler
+
+   Gruyer
+
+ Gruyer
+
+   Grana Padano
+
+ Grana Padano
+
+   Parmesan
+
+ Parmesan
+
+   Mozzarella (aus Kuhmilch)
+
+ Mozzarella (from cow’s milk)
+
+   Feta (aus Kuhmilch)
+
+ Feta (from cow’s milk)
+
+   Ricotta
+
+ ricotta
+
+   Mascarpone
+
+ mascarpone
+
+   Milch (mager, bis 0.5%)
+
+ Milk (lean, up to 0.5%)
+
+   Milch (UHT, teilentrahmt, bis 2.5%)
+
+ Milk (UHT, partially skimmed, up to 2.5%)
+
+   Milch (UHT, Vollrahm, 3.5%)
+
+ Milk (UHT, full cream, 3.5%)
+
+   Kalb (Hackfleisch)
+
+ Veal (ground meat)
+
+   Kalb (Leber)
+
+ Veal (liver)
+
+   Kalb (Wurstfleisch)
+
+ Veal (sausage)
+
+   Kalb (Steaks)
+
+ Veal (steak)
+
+   Kalb (Schulterbraten)
+
+ Veal (shoulder)
+
+   Kalb (Ragout)
+
+ Veal (cubed shaped)
+
+   Kalb (Schnitzel)
+
+ Veal (beaten flat)
+
+   Kalb (Kotelett)
+
+ Veal (chop of meat)
+
+   Kalb (Haxen)
+
+ Veal (leg)
+
+   Kalb (Halsbraten)
+
+ Veal (neck)
+
+   Kalb (Geschnetzeltes)
+
+ Veal (cut intro stripes)
+
+   Kalb (Filet)
+
+ Veal (filet)
+
+   Kalb (Brust)
+
+ Veal (breast)
+
+   Rind (Geschnetzeltes)
+
+ Beef (cut intro stripes)
+
+   Rind (Hackfleisch)
+
+ Beef (ground meat)
+
+   Rind (Hohrücken)
+
+ Beef (rib eye)
+
+   Rind (Filet)
+
+ Beef (filet)
+
+   Rind (Hüfte)
+
+ Beef (hip or round)
+
+   Rind (Schnitzel)
+
+ Beef (schnitzel)
+
+   Rind (Ragout)
+
+ Beef (ragout)
+
+   Rind (Roastbeef)
+
+ Beef (roastbeef)
+
+   Rind (Schulterbraten)
+
+ Beef (shoulder)
+
+   Rind (Siedfleisch durchzogen)
+
+ Beef (used for cooking in water)
+
+   Rind (Keule)
+
+ Beef (the back leg)
+
+   Rind (Wurstfleisch)
+
+ Beef (sausage)
+
+   Rind (Kopf, Füsse)
+
+ Beef (head and feed)
+
+   Rind (Innereien)
+
+ Beef (innards)
+
+   Schwein (Hackfleisch)
+
+ Pork (ground)
+
+   Schwein (Wurstfleisch)
+
+ Pork (sausage)
+
+   Schwein (Schwarte)
+
+ Pork (rind)
+
+   Schwein (Lendenkotelett)
+
+ Pork (loin chop)
+
+   Schwein (Schnürrli)
+
+ Pork (tail)
+
+   Schwein (Geschnetzeltes)
+
+ Pork (cut intro stripes)
+
+   Schwein (Brust)
+
+ Pork (breast)
+
+   Schwein (Ragout, Haxen)
+
+ Pork (ragout)
+
+   Schwein (Schulterbraten)
+
+ Pork (shoulder)
+
+   Schwein (Schnitzel)
+
+ Pork (schnitzel)
+
+   Schwein (Halsbraten)
+
+ Pork (neck)
+
+   Schwein (Kotelett)
+
+ Pork (chop of meat)
+
+   Schwein (Filet)
+
+ Pork (filet)
+
+   Lamm (Fleisch ohne Knochen)
+
+ Lamb (meat without bones)
+
+   Lamm (Keule ohne Schlossbein)
+
+ Lamb (leg)
+
+   Lamm (Kotelett, geschnitten)
+
+ Lamb (chop of meat)
+
+   Lamm (Hals und Brust mit Bein)
+
+ Lamb (neck and breast)
+
+   Lamm (Schulter ohne Bein)
+
+ Lamb (shoulder)
+
+   Lamm (Rücken ohne Filet)
+
+ Lamb (back)
+
+   Hähnchen
+
+ Chicken
+
+   Hähnchen (ganzes Hähnchen)
+
+ Chicken whole animal
+
+   Hähnchen (Schenkel)
+
+ Chicken (leg)
+
+   Hähnchen (Brust und Innenfilet)
+
+ Chicken (breast)
+
+   Hähnchen (Flügel)
+
+ Chicken (wings)
+
+   
+

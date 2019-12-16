@@ -1,0 +1,26 @@
+{
+    "recipe": {
+        "kitchen-id": "2806ba37-0111-40ed-84da-5eab197a5026",
+        "date": "2019-12-14",
+        "location": "Zürich Schweiz",
+        "ingredients": [
+            {
+            "id":"100011",   
+            "names":  [
+                {
+                    "language": "de",
+                    "value": "Tomaten"
+                },
+                {
+                    "language": "en",
+                    "value": "Tomatoes"
+                }],
+            "amount": "1000",
+            "transport":"ground",
+            "conservation":"fresh",
+            "processing":"raw",
+            "unit": "gram"
+            }
+        ]
+    }
+}
