@@ -6,7 +6,7 @@ The food we eat everyday comes from many places, sometimes places we do not exce
 ## Research questions
 - Analysis of the provenance of the food and agriculture products consumed in Switzerland
 - Impact of the globalization on the local production from an economical perspective 
-- How does the choice of the import sources impact the food carbon footprint of Switzerland ?  
+- Analysis of the impact on the environment of the Swiss food consumption 
 
 ## Dataset
 Here's a list of the datasets and databases we are going to use :
@@ -15,15 +15,18 @@ Here's a list of the datasets and databases we are going to use :
 is a high quality dataset containing important statistics like imports,exports,food supply and trade data of each country, detailing a long list of agriculure products and food. 
 - [eaternity](https://eaternity.org/foodprint/database) very good database containing an accurate estimation of the food carbon footprint of all major food products. The project provides also an API for querying the database
 
-## A list of internal milestones up until project milestone 3
-- Save the needed subsets into pickle files and deploy them to all team members
-- Organize a meeting and assign non overlapping tasks to all team members
-- Define the needed plots and the visualization and try to find a way to get to them 
-- Convince Manuel from Eaternity to provide support for the project and get cited in return.  
-- Augment the relevant datasets with the carbon emission data of the food 
-- Plan a long meeting for designing the data story
-- Start working on the final document that will be published 
-- Start a draft of the report 
+## Contributions of team members 
+The workflow used in the project was chosen in such a way every team member contributes equally to the project by assigning non overlapping tasks and analysis while in the same time collaborate together and hand results to each other. 
+Here is a description of the tasks performed by each team member :
 
-## Questions for TAs
-- No questions for now 
+- Jonathan Labhard 
+  - 
+- Olivier Lam :
+
+
+- Stanislas Jouven:
+
+- Jalel Zghonda :
+  - Get in touch with Eaternity team and negotiate a limited access to their database
+  - Data augmentation with the CO2 food emissions 
+  - Analysis of the Swiss Food carbon footprint, prepare charts and share results to team
