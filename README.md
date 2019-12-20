@@ -1,5 +1,7 @@
 # Swiss food consumption and provenance
 
+link for the data story https://jlabhard.github.io
+
 ## Abstract
 The food we eat everyday comes from many places, sometimes places we do not except. In this project we aim to tell a story about what kind of food we are used to eat as swiss citizens, where it comes from and what our impact on the agricultural market is. We will start by looking at what the swiss population tends to eat and try to retrace their origin. Then we aim to gather more information about this food including the price analysis and impact on the environment 
 
